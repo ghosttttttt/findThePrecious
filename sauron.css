@@ -1,0 +1,147 @@
+.navbar{
+    background-color: #3d7996!important;
+}
+.carousel-caption{
+    margin-bottom: 5%;
+}
+.carousel-caption p{
+    color:white;
+}
+
+.machin img{
+    position: relative;
+    opacity: 0.5;
+}
+
+.machin:hover img{
+    opacity: 1;
+}
+
+.card .gollum{
+    opacity: 1;
+}
+
+.hove{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    color: black;
+    background-color: white;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 4px;
+}
+
+strong{
+
+    text-decoration: none;
+    color: orange;
+	opacity: 1;
+}
+
+
+
+h6{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: white;
+}
+
+
+
+.machin:hover .hove{
+    opacity: 0;
+}
+
+.machin:hover h6{
+    position: absolute;
+    font-size: 28px;
+    top: 30%;
+    left: 32%;
+    color: white;
+}
+
+
+
+.nav-pills{
+    margin-top: 20px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #3d7996!important;
+    margin-bottom: 10px;
+}
+
+.container{
+    margin-top:25px;
+}
+
+p{
+    color: #86888c;
+}
+
+.card-deck{
+    margin-top:40px;
+}
+
+.btn-primary{
+    background-color: #3d7996!important;
+}
+
+
+.container .card-text{
+    max-height: 140px;
+    overflow: scroll;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.media p{
+    overflow: hidden;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+.media{
+    margin-bottom: 30px;
+}
+
+.card-body .rounded {
+    margin-top: -5%;
+}
+
+table{
+    border: 1px #c9d7ed double;
+}
+
+thead{
+    background-color: #c9d7ed!important;
+    color: black;
+    border: 1px #c9d7ed solid;
+}
+
+td, th{
+    border: 1px #c9d7ed solid;
+}
+
+.row .rounded{
+    margin-right: 30px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+footer .navbar li{
+    list-style-type: none;
+    color: white;
+}
+
+footer .navbar a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+footer .navbar p{
+    color: white;
+}
