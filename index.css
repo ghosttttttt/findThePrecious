@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #3d7996!important;
+    background-color: #3d7996;
 }
 .carousel-caption{
     margin-bottom: 5%;
@@ -69,7 +69,7 @@ h6{
 }
 
 .nav-pills .nav-link.active {
-    background-color: #3d7996!important;
+    background-color: #3d7996;
     margin-bottom: 10px;
 }
 
@@ -86,7 +86,7 @@ p{
 }
 
 .btn-primary{
-    background-color: #3d7996!important;
+    background-color: #3d7996;
 }
 
 
@@ -116,7 +116,7 @@ table{
 }
 
 thead{
-    background-color: #c9d7ed!important;
+    background-color: #c9d7ed;
     color: black;
     border: 1px #c9d7ed solid;
 }
